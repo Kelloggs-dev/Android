@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/Id"
+        android:layout_width="83dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/Nom"
+        android:layout_width="89dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/Prenom"
+        android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

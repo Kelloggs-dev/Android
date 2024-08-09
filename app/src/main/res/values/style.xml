@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomNavigationViewRed" parent="Widget.Design.NavigationView">
+        <item name="android:background">@color/Red</item>
+    </style>
+
+</resources>

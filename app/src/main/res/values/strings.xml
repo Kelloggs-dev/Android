@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">F1</string>
+    <string name="Compte">Compte</string>
+    <string name="Logo_F1" tools:ignore="Typos">Logo_F1</string>
+    <string name="Home">Home</string>
+    <string name="Racing">Racing</string>
+    <string name="Standings">Standings</string>
+    <string name="Panier">Panier</string>
+    <string name="Retour">Retour</string>
+    <string name="Login">Connexion</string>
+    <string name="MyAccount">MyAccount :</string>
+    <string name="Acheter">Ticket :</string>
+    <string name="Acheter2">Ticket --></string>
+    <string name="MesTicket">Mes Ticket :</string>
+    <string name="Admin">Admin :</string>
+    <string name="Delete">Delete --></string>
+    <string name="Update">Update --></string>
+    <string name="Deconnexion">Deconnexion</string>
+    <string name="Delete2">Delete</string>
+</resources>
